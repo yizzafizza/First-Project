@@ -26,3 +26,4 @@ It's meant to demonstrate how to use functions, loops, and input/output in Pytho
 ```bash
 git clone https://github.com/yourusername/your-project-name.git
 cd your-project-name
+...
